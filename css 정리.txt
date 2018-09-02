@@ -1,0 +1,26 @@
+ 태그 id #select .~~~~~ 
+
+
+선탟자 띄어쓰기 
+
+가상클래스 선택자의 형식이 있다.
+
+
+selectors 
+
+.>> 클래스 선택자
+#  >> id 선택자 
+
+font-size
+px 사용자가 설정 불가
+rem 사용자가 설정가능
+
+색깔
+color name
+hex
+rgb
+
+
+text-align
+
+font-size
